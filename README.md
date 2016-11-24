@@ -1,2 +1,2 @@
 # xorud0524.github.io
-github.io
+xorud0524.github.io
