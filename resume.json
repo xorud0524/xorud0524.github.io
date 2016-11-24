@@ -1,0 +1,218 @@
+{
+  "basics": {
+    "name": "taegyeong.kim",
+    "label": "Programmer",
+    "picture": "",
+    "email": "xorud0524@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "1995 M ",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Pangyo",
+      "countryCode": "Korea",
+      "region": "Seoul"
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "username": "xorud0524",
+        "url": "http://fb.com/xorud0524"
+      },
+      {
+        "network": "linkedin",
+        "username": "taegyeong.kim",
+        "url": "https://www.linkedin.com/in/taegyeong-kim-191748107"
+      },
+      {
+        "network": "github",
+        "username": "taegyeong.kim",
+        "url": "https://github.com/xorud0524"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "java",
+        "node.js",
+        "c",
+        "bash"
+      ]
+    },
+    {
+      "name": "HTTP API Design",
+      "level": "",
+      "keywords": [
+        "jsonapi",
+        "xml",
+        "restful"
+      ]
+    },
+    {
+      "name": "Web Front-end",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Angular2"
+      ]
+    },
+    {
+      "name": "Web Back-end",
+      "level": "",
+      "keywords": [
+        "Spring",
+        "JPA",
+        "myBatis",
+        "express",
+        "hapi"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "Mysql",
+        "Dynamo",
+        "Redis",
+        "HBase",
+        "H2"
+      ]
+    },
+    {
+      "name": "Deployment",
+      "level": "",
+      "keywords": [
+        "aws",
+        "nginx",
+        "apache"
+      ]
+    },
+    {
+      "name": "Mobile Client",
+      "level": "",
+      "keywords": [
+        "Android"
+      ]
+    },
+    {
+      "name": "Data Processing",
+      "level": "",
+      "keywords": [
+        "spark"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Sk planet",
+      "position": "software engineer",
+      "website": "",
+      "startDate": "2014-01-02",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "SyrupStore adjust service",
+        "O2O android SDK (Syrup, OCB, Tmap, etc...)",
+        "Recopick/Recommendation service"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "SmarTeenAppClub",
+      "position": "Mento",
+      "website": "http://fb.com/groups/skappclub",
+      "startDate": "2014-01-01",
+      "endDate": "",
+      "summary": "SKTechX와 중소기업청이 공동주관하는 STAC의 참가자 커뮤니티",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sunrin High school",
+      "area": "Information and Network Technology",
+      "studyType": "graduate",
+      "startDate": "2011-03",
+      "endDate": "2014-02",
+      "gpa": "",
+      "courses": [
+        "network",
+        "operating system",
+        " programming languages ",
+        "security",
+        "algorithm"
+      ]
+    },
+    {
+      "institution": "Korea National Open University",
+      "area": "ComputerScience",
+      "studyType": "enrol",
+      "startDate": "2014-03",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        " programming languages",
+        "general education(english, korean, movie, history etc...)"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "",
+      "fluency": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Street Fashion",
+      "keywords": [
+        "supreme",
+        "bape",
+        "carhartt",
+        "jordan",
+        "offwhite",
+        "nike",
+        "adidas",
+        "hba"
+      ]
+    },
+    {
+      "name": "beer",
+      "keywords": [
+        "Bigeye",
+        "Mikkeller -Taedonggang",
+        "guinness",
+        "craft"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
+}
